@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceBasedVPP</key>
+	<false/>
+	<key>bundleVersion</key>
+	<string>2.0.1</string>
+	<key>enterpriseInstallURL</key>
+	<string>itms-services:?action=download-manifest&amp;url=https://raw.githubusercontent.com/6700dns/otaPlist/main/OpenTemOTA/com.silverfox.Terminal_OpenTerm.plist</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>hasMessagesExtension</key>
+	<false/>
+	<key>is-auto-download</key>
+	<false/>
+	<key>is-purchased-redownload</key>
+	<true/>
+	<key>isFactoryInstall</key>
+	<false/>
+	<key>itemName</key>
+	<string>OpenTerm</string>
+	<key>launchProhibited</key>
+	<false/>
+	<key>sideLoadedDeviceBasedVPP</key>
+	<false/>
+	<key>subgenre</key>
+	<array/>
+</dict>
+</plist>
