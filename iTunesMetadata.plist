@@ -7,7 +7,7 @@
 	<key>bundleVersion</key>
 	<string>1.9.5</string>
 	<key>enterpriseInstallURL</key>
-	<string>itms-services:?action=download-manifest&amp;url=https://api.ipastore.me/otaplist/0_com.tijo.opener.Opener_1606247789.plist&amp;digest=45d664919a08f0600eea96faca79631b</string>
+	<string>itms-services:?action=download-manifest&amp;url=https://raw.githubusercontent.com/6700dns/otaPlist/main/OpenER.plist</string>
 	<key>gameCenterEnabled</key>
 	<false/>
 	<key>gameCenterEverEnabled</key>
