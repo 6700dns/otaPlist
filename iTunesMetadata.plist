@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceBasedVPP</key>
+	<false/>
+	<key>bundleVersion</key>
+	<string>1.9.5</string>
+	<key>enterpriseInstallURL</key>
+	<string>itms-services:?action=download-manifest&amp;url=https://api.ipastore.me/otaplist/0_com.tijo.opener.Opener_1606247789.plist&amp;digest=45d664919a08f0600eea96faca79631b</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>hasMessagesExtension</key>
+	<false/>
+	<key>is-auto-download</key>
+	<false/>
+	<key>is-purchased-redownload</key>
+	<true/>
+	<key>isFactoryInstall</key>
+	<false/>
+	<key>itemName</key>
+	<string>Opener</string>
+	<key>launchProhibited</key>
+	<false/>
+	<key>sideLoadedDeviceBasedVPP</key>
+	<false/>
+	<key>subgenre</key>
+	<array/>
+</dict>
+</plist>
